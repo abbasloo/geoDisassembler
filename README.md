@@ -1,1 +1,1 @@
-# geoDisassembler: Mesh Processing for 3D Building Models
+# geoWrench: A Toolbox for Geometrical Acoustics
