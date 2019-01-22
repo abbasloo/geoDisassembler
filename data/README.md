@@ -1,2 +1,2 @@
 
-Folder structure for saving data during mesh manipulation
+Folders structure for saving data during mesh manipulation
