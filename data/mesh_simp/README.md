@@ -1,1 +1,1 @@
-
+For simplified meshes (segments)
