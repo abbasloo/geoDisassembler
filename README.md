@@ -2,6 +2,11 @@
 
 Mesh manipulation includes the following three operations receiving point clouds or mesh models (it can be voxelized/sampled by MeshLab filters like Poisson-disk sampling): 
 
+![alt text](https://github.com/abbasloo/geoWrench/blob/master/Hall3.png)
+
+![alt text](https://github.com/abbasloo/geoWrench/blob/master/voxelsHall3.png)
+
+
 - Segmentation:
 
 Region growing point cloud segmentation decomposes the model to several segments with a set of features.
