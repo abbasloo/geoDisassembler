@@ -1,6 +1,6 @@
 # geoWrench: A mesh processing toolbox for geometrical acoustics
 
-Mesh manipulation includes the following three operations: 
+Mesh manipulation includes the following three operations receiving point clouds or mesh models (it can be voxelized/sampled by MeshLab filters like Poisson-disk sampling): 
 
 - Segmentation:
 
