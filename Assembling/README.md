@@ -1,2 +1,3 @@
+Install PCL and VTK libraries!
 
-./Mesh raw.vtk raw.obj raw.ply
+./Mesh rawAssemb.stl rawAssemb.vtk raw.vtk raw.obj raw.ply 
