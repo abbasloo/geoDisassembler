@@ -2,7 +2,7 @@
 Install PCL library!
 
 
-./Seg ../voxelsHall3.pcd 2.0 1.0 0.05 40.0
+./Seg ../voxelsHall3.pcd 2.0 1.0 0.05 40.0 Hall3
 
 pcl_viewer ../data/pc/voxels_seg.pcd 
 
